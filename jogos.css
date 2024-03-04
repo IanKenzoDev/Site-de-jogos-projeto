@@ -1,0 +1,49 @@
+h1{
+    font-size: 63px;
+    color: #303030;
+    padding: 60px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-shadow: 
+    -2px -2px 0 rgb(0, 0, 0),  
+     2px -2px 0 rgb(0, 0, 0),
+    -2px  2px 0 rgb(0, 0, 0),
+     2px  2px 0 rgb(0, 0, 0);
+}
+
+h2{
+    font-size: 50px;
+    font-family: Courier New, monospace;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: 600;
+    text-shadow: 
+        -2px -2px 0 rgb(0, 0, 0),  
+         2px -2px 0 rgb(0, 0, 0),
+        -2px  2px 0 rgb(0, 0, 0),
+         2px  2px 0 rgb(0, 0, 0);
+}
+
+p{
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: 400;
+    text-shadow: 
+    -1px -1px 0 rgb(0, 0, 0),  
+     1px -1px 0 rgb(2, 2, 2),
+    -1px  1px 0 rgb(0, 0, 0),
+     1px  1px 0 rgb(0, 0, 0);
+}
+
+h3{
+    font-size: 50px;
+    font-family: Courier New, monospace;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: 600;
+    text-shadow: 
+    -2px -2px 0 black,  
+     2px -2px 0 black,
+    -2px  2px 0 black,
+     2px  2px 0 black;
+}
